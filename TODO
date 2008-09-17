@@ -1,0 +1,7 @@
+TODO for File-Magic version 0.01
+================================
+
+- add contant wrappers for new() flags
+- prove behaviour of File::Magic->new( undef, X )
+- add global instance for File::Magic->type() like File::Spec
+
